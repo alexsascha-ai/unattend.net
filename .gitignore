@@ -1,0 +1,14 @@
+# Build & IDE outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Upstream reference clone
+ref_unattend_generator/
+
+# Release packages
+dist/
+*.zip
